@@ -1,47 +1,47 @@
 {
- "at": "2026-11-12T23:48:26Z",
+ "at": "2026-11-13T08:48:18Z",
  "markets": [
   {
-   "asof": "Close 12 Nov",
-   "ch": -0.35,
    "n": "S&P 500",
-   "src": "Vista Partners",
-   "v": "7,592.40"
+   "v": "7,592.40",
+   "ch": -0.35,
+   "asof": "Close 12 Nov",
+   "src": "Yahoo Finance (AP)"
   },
   {
-   "asof": "Close 12 Nov",
-   "ch": -0.39,
    "n": "Nasdaq",
-   "src": "Vista Partners",
-   "v": "25,366.09"
-  },
-  {
-   "asof": "Close 11 Nov",
-   "ch": 1.31,
-   "n": "Nikkei 225",
-   "src": "Goodman Macro",
-   "v": "61,248.59"
-  },
-  {
+   "v": "25,366.09",
+   "ch": -0.39,
    "asof": "Close 12 Nov",
-   "ch": -0.7,
+   "src": "Yahoo Finance (AP)"
+  },
+  {
+   "n": "Nikkei 225",
+   "v": "61,142.35",
+   "ch": 0.53,
+   "asof": "Close 13 Nov",
+   "src": "Reuters via Boursorama"
+  },
+  {
    "n": "VN-Index",
-   "src": "Vietstock",
-   "v": "1,734.75"
+   "v": "1,734.93",
+   "ch": 0.01,
+   "asof": "Close 13 Nov",
+   "src": "Tin nhanh Chứng khoán"
   },
   {
-   "asof": "Settle 12 Nov",
-   "ch": 3.3,
    "n": "Brent crude",
-   "src": "Eurasia Business News",
-   "v": "$95.82 / bbl"
+   "v": "$96.28 / bbl",
+   "ch": 0.48,
+   "asof": "Intraday 13 Nov",
+   "src": "Trading Economics"
   },
   {
-   "asof": "Late 12 Nov",
-   "ch": -2.77,
    "n": "Gold (spot)",
-   "src": "Eurasia Business News",
-   "v": "≈ $3,876 / oz"
+   "v": "$3,909.90 / oz",
+   "ch": 0.86,
+   "asof": "Late 12 Nov 21:04 ET",
+   "src": "Kitco"
   }
  ]
 }
