@@ -1,0 +1,47 @@
+{
+ "at": "2026-11-12T23:48:26Z",
+ "markets": [
+  {
+   "asof": "Close 12 Nov",
+   "ch": -0.35,
+   "n": "S&P 500",
+   "src": "Vista Partners",
+   "v": "7,592.40"
+  },
+  {
+   "asof": "Close 12 Nov",
+   "ch": -0.39,
+   "n": "Nasdaq",
+   "src": "Vista Partners",
+   "v": "25,366.09"
+  },
+  {
+   "asof": "Close 11 Nov",
+   "ch": 1.31,
+   "n": "Nikkei 225",
+   "src": "Goodman Macro",
+   "v": "61,248.59"
+  },
+  {
+   "asof": "Close 12 Nov",
+   "ch": -0.7,
+   "n": "VN-Index",
+   "src": "Vietstock",
+   "v": "1,734.75"
+  },
+  {
+   "asof": "Settle 12 Nov",
+   "ch": 3.3,
+   "n": "Brent crude",
+   "src": "Eurasia Business News",
+   "v": "$95.82 / bbl"
+  },
+  {
+   "asof": "Late 12 Nov",
+   "ch": -2.77,
+   "n": "Gold (spot)",
+   "src": "Eurasia Business News",
+   "v": "≈ $3,876 / oz"
+  }
+ ]
+}
