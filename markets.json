@@ -1,5 +1,5 @@
 {
- "at": "2026-11-13T21:48:21Z",
+ "at": "2026-11-14T08:48:24Z",
  "markets": [
   {
    "n": "S&P 500",
@@ -31,16 +31,16 @@
   },
   {
    "n": "Brent crude",
-   "v": "$96.35 / bbl",
-   "ch": 0.55,
-   "asof": "Intraday 13 Nov",
+   "v": "$95.84 / bbl",
+   "ch": 0.02,
+   "asof": "Last 13 Nov",
    "src": "Trading Economics"
   },
   {
    "n": "Gold (spot)",
-   "v": "$3,875 / oz",
-   "ch": -0.04,
-   "asof": "Intraday 13 Nov",
+   "v": "$3,882 / oz",
+   "ch": 0.14,
+   "asof": "Last 13 Nov",
    "src": "Trading Economics"
   }
  ]
