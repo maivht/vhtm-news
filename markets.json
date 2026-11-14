@@ -1,47 +1,47 @@
 {
- "at": "2026-11-14T08:48:24Z",
+ "at": "2026-11-14T16:48:38Z",
  "markets": [
   {
    "n": "S&P 500",
-   "v": "7,560.87",
-   "ch": -0.42,
+   "v": "7,561.67",
+   "ch": -0.4,
    "asof": "Close 13 Nov",
-   "src": "Reuters"
+   "src": "AP"
   },
   {
    "n": "Nasdaq",
-   "v": "25,135.96",
+   "v": "25,136.27",
    "ch": -0.91,
    "asof": "Close 13 Nov",
-   "src": "Reuters"
+   "src": "AP"
   },
   {
    "n": "Nikkei 225",
    "v": "61,142.35",
    "ch": 0.53,
    "asof": "Close 13 Nov",
-   "src": "Reuters via Boursorama"
+   "src": "Ad-hoc News"
   },
   {
    "n": "VN-Index",
    "v": "1,734.93",
    "ch": 0.01,
    "asof": "Close 13 Nov",
-   "src": "Tin nhanh Chứng khoán"
+   "src": "Thời báo Tài chính Việt Nam"
   },
   {
    "n": "Brent crude",
    "v": "$95.84 / bbl",
    "ch": 0.02,
-   "asof": "Last 13 Nov",
-   "src": "Trading Economics"
+   "asof": "Settle 13 Nov",
+   "src": "Gate News"
   },
   {
    "n": "Gold (spot)",
-   "v": "$3,882 / oz",
-   "ch": 0.14,
-   "asof": "Last 13 Nov",
-   "src": "Trading Economics"
+   "v": "$3,883 / oz",
+   "ch": 0.18,
+   "asof": "Late 13 Nov",
+   "src": "Kitco"
   }
  ]
 }
