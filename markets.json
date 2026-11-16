@@ -1,19 +1,19 @@
 {
- "at": "2026-11-16T16:48:29Z",
+ "at": "2026-11-16T21:48:38Z",
  "markets": [
   {
    "n": "S&P 500",
-   "v": "7,475.04",
-   "ch": -1.15,
-   "asof": "Intraday 16 Nov 11:45 ET",
-   "src": "Yahoo Finance"
+   "v": "7,419.53",
+   "ch": -1.88,
+   "asof": "Close 16 Nov",
+   "src": "Bloomingbit"
   },
   {
    "n": "Nasdaq",
-   "v": "24,734.24",
-   "ch": -1.6,
-   "asof": "Intraday 16 Nov 11:45 ET",
-   "src": "Yahoo Finance"
+   "v": "24,509.76",
+   "ch": -2.49,
+   "asof": "Close 16 Nov",
+   "src": "Bloomingbit"
   },
   {
    "n": "Nikkei 225",
@@ -31,15 +31,15 @@
   },
   {
    "n": "Brent crude",
-   "v": "$93.34 / bbl",
-   "ch": -2.61,
+   "v": "$91.78 / bbl",
+   "ch": -3.84,
    "asof": "Intraday 16 Nov",
    "src": "Trading Economics"
   },
   {
    "n": "Gold (spot)",
-   "v": "$3,860 / oz",
-   "ch": -0.57,
+   "v": "$3,855 / oz",
+   "ch": -0.69,
    "asof": "Intraday 16 Nov",
    "src": "Trading Economics"
   }
