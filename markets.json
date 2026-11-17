@@ -1,5 +1,5 @@
 {
- "at": "2026-11-16T21:48:38Z",
+ "at": "2026-11-17T08:53:26Z",
  "markets": [
   {
    "n": "S&P 500",
@@ -17,30 +17,30 @@
   },
   {
    "n": "Nikkei 225",
-   "v": "59,662.02",
-   "ch": -2.42,
-   "asof": "Close 16 Nov",
-   "src": "Xinhua"
+   "v": "58,860.43",
+   "ch": -1.34,
+   "asof": "Close 17 Nov",
+   "src": "AP"
   },
   {
    "n": "VN-Index",
-   "v": "1,736.89",
-   "ch": 0.11,
-   "asof": "Close 16 Nov",
-   "src": "Nhân Dân"
+   "v": "1,726.72",
+   "ch": -0.59,
+   "asof": "Close 17 Nov",
+   "src": "Tin nhanh Chứng khoán"
   },
   {
    "n": "Brent crude",
-   "v": "$91.78 / bbl",
-   "ch": -3.84,
-   "asof": "Intraday 16 Nov",
+   "v": "$92.10 / bbl",
+   "ch": -0.37,
+   "asof": "Intraday 17 Nov",
    "src": "Trading Economics"
   },
   {
    "n": "Gold (spot)",
-   "v": "$3,855 / oz",
-   "ch": -0.69,
-   "asof": "Intraday 16 Nov",
+   "v": "$3,866 / oz",
+   "ch": 0.23,
+   "asof": "Intraday 17 Nov",
    "src": "Trading Economics"
   }
  ]
